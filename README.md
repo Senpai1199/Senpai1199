@@ -1,4 +1,4 @@
-### Hi there, I'm Divyansh - aka [Senpai1199] 👋
+### Hi there, I'm Divyansh - aka Senpai1199 👋
 
 ## I'm a Student, Developer and a Tech Enthusiast!
 
@@ -13,7 +13,6 @@
 [<img align="left" alt="divyansh1199 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="divyansh1199 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="divyansh1199 | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
-[<img align="left" alt="divyansh1199 | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/epicgames.svg" />][epicgames]
 
 <br />
 
