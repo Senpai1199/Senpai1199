@@ -1,6 +1,6 @@
 ### Hi there, I'm Divyansh - aka Senpai1199 👋
 
-## I'm a Student, Developer and a Tech Enthusiast!
+## I'm a Student, Developer, Gamer and a Tech Enthusiast!
 
 - 🌱 I’m currently learning GraphQL and Nest.js
 - 👯 I’m looking to collaborate with other developers.
