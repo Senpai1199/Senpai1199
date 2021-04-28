@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, Gamer and a Tech Enthusiast!
 
-- 🌱 I’m currently learning GraphQL and Nest.js
+- 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Make myself learn more technologies.
+- 🥅 2021 Goals: Collaborate and build something cool.
 - ⚡ Fun fact: I love to play CSGO and Warzone.
 
 ### Connect with me:
