@@ -1,4 +1,4 @@
-### Hi there, I'm Divyansh - aka Senpai1199 👋
+### Hi there, I'm Divyansh 👋
 
 ## I'm a Student, Developer, Gamer and a Tech Enthusiast!
 
