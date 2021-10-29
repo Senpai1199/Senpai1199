@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, Gamer and a Tech Enthusiast!
 
-- 🌱 I’m currently learning Docker and Vim.
+- 🌱 I’m currently learning Vim.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Collaborate and build something cool.
 - ⚡ Fun fact: I love to play CSGO and Warzone.
