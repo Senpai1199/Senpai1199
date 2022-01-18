@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Vim.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Collaborate and build something cool.
+- 🥅 2022 Goals: Collaborate and build something cool.
 - ⚡ Fun fact: I love to play CSGO and Warzone.
 
 ### Connect with me:
