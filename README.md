@@ -1,6 +1,6 @@
 ### Hi there, I'm Divyansh 👋
 
-## I'm a Student, Developer, Gamer and a Tech Enthusiast!
+## I'm a Software Engineer, Gamer and a Tech Enthusiast!
 
 - 🌱 I’m currently learning Vim.
 - 👯 I’m currently looking for full-time Software Engineering / Machine Learning roles. Please reach out directly at divyansh1199@gmail.com or https://linkedin.com/in/divyansh1199
