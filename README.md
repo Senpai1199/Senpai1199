@@ -3,9 +3,8 @@
 ## I'm a Student, Developer, Gamer and a Tech Enthusiast!
 
 - 🌱 I’m currently learning Vim.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Collaborate and build something cool.
-- ⚡ Fun fact: I love to play CSGO and Warzone.
+- 👯 I’m currently looking for full-time Software Engineering / Machine Learning roles.
+- ⚡ Fun fact: I love to do a variety of things including playing/watching football, quizzing, speedcubing, skateboarding, cycling, reading books.
 
 ### Connect with me:
 
