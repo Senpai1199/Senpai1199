@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Vim.
 - 👯 I’m currently looking for full-time Software Engineering / Machine Learning roles. Please reach out directly at divyansh1199@gmail.com or https://linkedin.com/in/divyansh1199
-- ⚡ Fun fact: I love to do a variety of things including playing/watching football, quizzing, speedcubing, skateboarding, cycling, reading books.
+- ⚡ Fun fact: I love to indulge in a variety of things in my life - including playing/watching football, skateboarding, swimming, quizzing, speedcubing,, cycling, reading books.
 
 ### Connect with me:
 
